@@ -1,0 +1,73 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement (the "Agreement") is made and entered into as of January 15, 2025 (the "Effective Date") by and between:
+
+TECHNOLOGY INNOVATIONS CORP., a Delaware corporation with its principal place of business at 123 Innovation Drive, Silicon Valley, California, USA (hereinafter referred to as "Disclosing Party")
+
+and
+
+GLOBAL SOLUTIONS LTD., a company incorporated under the laws of the United Kingdom with its registered office at 456 Business Park, London, England, UK (hereinafter referred to as "Receiving Party")
+
+WHEREAS, the parties wish to explore a potential business relationship in the technology sector, specifically in the areas of artificial intelligence and cybersecurity;
+
+WHEREAS, in connection with such discussions, the Disclosing Party may disclose to the Receiving Party certain confidential and proprietary information;
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+1. DEFINITIONS
+
+"Confidential Information" means any information disclosed by the Disclosing Party to the Receiving Party, either directly or indirectly, in writing, orally or by inspection of tangible objects, which is designated as "Confidential," "Proprietary" or some similar designation, or that should reasonably be understood to be confidential given the nature of the information and the circumstances of disclosure.
+
+2. CONFIDENTIALITY OBLIGATIONS
+
+The Receiving Party shall:
+(a) Use the Confidential Information solely for the purpose of evaluating the potential business relationship;
+(b) Maintain the confidentiality of the Confidential Information and not disclose such information to any third party;
+(c) Use the same degree of care to protect the confidentiality of the Confidential Information as it uses to protect the confidentiality of its own confidential information of like kind, but in no event less than reasonable care;
+(d) Ensure that its employees, agents, and representatives who have access to the Confidential Information are bound by confidentiality obligations no less restrictive than those contained herein.
+
+3. TERM AND TERMINATION
+
+This Agreement shall commence on the Effective Date and continue for a period of three (3) years, unless terminated earlier by either party upon thirty (30) days written notice to the other party.
+
+4. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, United States of America. Any disputes arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts of Delaware, USA.
+
+5. CONSIDERATION
+
+In consideration for the disclosure of Confidential Information, the Receiving Party agrees to pay the Disclosing Party a fee of $50,000 (Fifty Thousand US Dollars) upon execution of this Agreement.
+
+6. FORCE MAJEURE
+
+Neither party shall be liable for any delay or failure to perform its obligations under this Agreement due to circumstances beyond its reasonable control, including but not limited to acts of God, war, terrorism, riots, fire, natural disaster, or government action.
+
+7. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter.
+
+8. AMENDMENT
+
+This Agreement may be amended only by a written instrument signed by both parties.
+
+9. SEVERABILITY
+
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10. NOTICES
+
+All notices under this Agreement shall be in writing and shall be delivered to the addresses set forth above or to such other address as either party may specify in writing.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+TECHNOLOGY INNOVATIONS CORP.
+By: _________________________
+Name: John Smith
+Title: Chief Executive Officer
+Date: January 15, 2025
+
+GLOBAL SOLUTIONS LTD.
+By: _________________________
+Name: Sarah Johnson
+Title: Managing Director
+Date: January 15, 2025 
